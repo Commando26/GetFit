@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054288462471",
+    "firebase_url": "https://groupone-getfit-default-rtdb.firebaseio.com",
+    "project_id": "groupone-getfit",
+    "storage_bucket": "groupone-getfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054288462471:android:ee0da7a05e9dc3c3c36e22",
+        "android_client_info": {
+          "package_name": "com.example.GetFit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054288462471-s02t93v41qvge2a3lmm70208e68ksmfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.GetFit_app",
+            "certificate_hash": "b3d613b6b0d30c64bd52173a938e9004ef0d19b0"
+          }
+        },
+        {
+          "client_id": "1054288462471-nqv28s0d3mot0la7gp7v27orlk25j8kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXi2DcVOYS4wMBEuL7aY9xw-8gWoRTvu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054288462471-nqv28s0d3mot0la7gp7v27orlk25j8kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
